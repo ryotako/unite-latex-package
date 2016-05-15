@@ -9,9 +9,4 @@ Unite source which gathers installed latex packages
 
 インストールされたLaTeXパッケージを表示します．
 初回起動時のみ，パッケージを検索してキャッシュを作成するため時間がかかります．
-キャッシュを更新するためには次のコマンドを実行してください．
-
-'''
-:LatexPackageCacheUpdate
-'''
-
+キャッシュを更新するためにはコマンド:LatexPackageCacheUpdateを実行してください．
